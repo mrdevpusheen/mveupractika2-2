@@ -1,0 +1,26 @@
+.Block7{
+    background: rgb(36, 22, 11);
+    height: 374px;
+}
+.Block7 ul{
+    display: flex;
+    margin-left: 68px;
+    padding-top: 48px;
+}
+.Block7 p{
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30.6px;
+    width: 339px;
+}
+.Block7 li{
+    margin-right: 15px;
+}
+.Block7 h4{
+    color: rgb(252, 248, 244);
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 27.2px;
+    width: 255px;
+}

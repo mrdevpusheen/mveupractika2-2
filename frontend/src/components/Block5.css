@@ -1,0 +1,36 @@
+.Block5 p{
+    width: 526px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30.6px;
+}
+.Block5 ul{
+    display: flex;
+    align-items: center;
+    margin-bottom: 100px;
+}
+.Block5 h1{
+    font-size: 43px;
+    font-weight: 400;
+    line-height: 57.2px;
+}
+.Block5{
+    margin-left: 90px;
+    margin-top: 220px;
+}
+.imageitem3{
+    margin-left: 114px;
+}
+.imageitem1{
+    margin-left: 114px;
+}
+.textitem{
+    margin-left: 104px;
+}
+.see{
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 25.2px;
+    border-bottom: 2px solid rgba(36, 22, 11, 0.12);
+    width: 136px;
+}

@@ -1,0 +1,21 @@
+.MainScreen{
+    background-image: url('../img/IMAGE.png');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+    height: 799px;
+    padding-top: 188px;
+    padding-left: 90px;
+}
+.MainScreen h1{
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 72px;
+    width: 551px;
+}
+.MainScreen p{
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 30.6px;
+    width: 559px;
+}

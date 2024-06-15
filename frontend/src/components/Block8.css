@@ -1,0 +1,32 @@
+.Block8{
+    margin-top: 126px;
+    margin-bottom: 154px;
+}
+.Block8 ul{
+    display: flex;
+    margin-left: 90px;
+}
+.Block8 li{
+    margin-left: 32px;
+    width: 237px;
+}
+.Block8 h1{
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 72px;
+}
+.textblock8{
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 30.6px;
+}
+.Block8 h4{
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 33px;
+}
+.listtext{
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25.5px;
+}

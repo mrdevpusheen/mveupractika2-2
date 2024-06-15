@@ -1,0 +1,19 @@
+.Block6{
+    background: url('../img/IMAGE12.png');
+    width: 1020px;
+    height: 574px;
+    margin-left: 407px;
+    margin-bottom: 140px;
+}
+.Button{
+    border-radius: 80px;
+    box-shadow: -1px 1px 2px 0px rgba(0, 0, 0, 0.07);
+    background: rgb(245, 248, 250);
+    width: 225px;
+}
+.Button p{
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 25.2px;
+    margin-left: 32px;
+}
